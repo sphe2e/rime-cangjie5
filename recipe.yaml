@@ -1,0 +1,10 @@
+# encoding: utf-8
+---
+recipe:
+  Rx: rime-cangjie5
+  description: >-
+    倉頡輸入法方案。
+
+install_files: >-
+  cangjie5*.yaml
+  
