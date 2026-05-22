@@ -7,4 +7,4 @@ recipe:
 
 install_files: >-
   cangjie5*.yaml
-  
+  essay*
