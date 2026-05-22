@@ -14,7 +14,8 @@
 name: "cangjie5"
 version: "2026.02.07"
 sort: original
-use_preset_vocabulary: true
+#use_preset_vocabulary: true
+vocabulary: essay
 max_phrase_length: 7
 columns:
   - text
